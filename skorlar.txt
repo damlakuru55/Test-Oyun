@@ -1,1 +1,2 @@
 ada 20
+damla 40
