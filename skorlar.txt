@@ -1,2 +1,3 @@
 ada 20
 damla 40
+gpt 30
